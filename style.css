@@ -1,0 +1,11 @@
+.hero {
+  background-color: #1f2937;
+  display: flex 1;
+}
+
+.header {
+  color: #f9faf8;
+  font-size: 24px;
+  display: flex;
+  font-weight: 700;
+}
